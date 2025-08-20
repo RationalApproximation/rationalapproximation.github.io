@@ -15,7 +15,7 @@ We invite researchers, developers, and enthusiasts to contribute by sharing thei
 | AAA in [SciPy](https://scipy.org) | [Jake Bowhay](https://github.com/j-bowhay) | Python | AAA algorithm for rational approximation. | [yes](https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.AAA.html) | n/a | [Virtanen et al.](https://scipy.org/citing-scipy/) | BSD-3 | August 2024 | 
 | [baryrat](https://github.com/c-f-h/baryrat) | [Clemens Hofreither](https://people.ricam.oeaw.ac.at/c.hofreither/) | Python | Barycentric rational and polynomial interpolation and approximation with BRASIL and AAA. | [yes](https://baryrat.readthedocs.io/) | [Hofreither](https://doi.org/10.1007/s11075-020-01042-0) | [Hofreither](https://doi.org/10.1007/s11075-020-01042-0) | BSD-2 | February 2025 |
 | [mLF](https://github.com/cpoussot/mLF) | [Athanasios C. Antoulas](https://antoulas.rice.edu/), Ion-Victor Gosea, [Charles Poussot-Vassal](https://sites.google.com/site/charlespoussotvassal/) | Matlab | Data-driven multivariate barycentric rational and polynomial interpolation. | [yes](https://github.com/cpoussot/mLF) | [Antoulas et al.](https://arxiv.org/abs/2405.00495) | [Antoulas et al.](https://arxiv.org/abs/2405.00495) to appear in SIAM Review | MIT | April 2025 |
-
+| [parametric-AAA](https://github.com/lbalicki/parametric-AAA) | [Linus Balicki](https://github.com/lbalicki), Andrea Carracedo Rodriguez, Serkan Gugercin | Matlab | Multivariate rational approximation via p-AAA and its variants. | no | [Carracedo Rodriguez et al.](https://epubs.siam.org/doi/10.1137/20M1322698) | [Carracedo Rodriguez et al.](https://epubs.siam.org/doi/10.1137/20M1322698) | MIT | August 2025 |
 
 
 
